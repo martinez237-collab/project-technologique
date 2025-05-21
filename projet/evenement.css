@@ -1,0 +1,23 @@
+.forme1{
+    display: flex;
+    justify-content: center;
+   
+}
+.formulaire{
+    float: right;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: black;
+    color: white;
+    margin-right: 10px;
+    margin-top: 20px;
+
+}
+.forme2{
+    height: 70px;
+    background-color: gray;
+    border-radius: 4px;
+}
+a{
+    text-decoration: none;
+}
